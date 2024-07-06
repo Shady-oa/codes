@@ -1,0 +1,14 @@
+.like {
+  padding: 10px;
+  border: none;
+  color: white;
+  background-color: rgba(0, 0, 255, 0.705);
+  border-radius: 20px;
+  width: 5em;
+  font-weight: bold;
+  cursor: pointer;
+}
+.liked {
+  background-color: rgba(255, 0, 0, 0.582);
+  cursor: pointer;
+}
